@@ -1,4 +1,10 @@
-markdown_content = """# Hi there, I'm Shahriar Ahmed 👋
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Shahriar+Ahmed+👋;CSE+Undergraduate+Student;Full-Stack+%26+AI+Developer" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggCGvnPxgHUcvZ/giphy.gif" width="200" alt="coding sticker" />
+</div>
 
 ### 👨‍💻 About Me
 * 🎓 I'm a **Computer Science and Engineering (CSE)** undergraduate student based in Chattogram, Bangladesh.
@@ -9,17 +15,15 @@ markdown_content = """# Hi there, I'm Shahriar Ahmed 👋
 
 ### 🛠️ Tech Stack & Skills
 
-**Languages** ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,js,ts,cpp,react,nodejs,express,docker,git,linux,mongodb,postman" alt="Tech Stack Stickers" />
+  </a>
+</div>
 
-**Full-Stack & Architecture** ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+<br>
 
-**AI, Security & Core CS**
+**AI, Security & Core CS Focus:**
 * **AI/ML Integration:** Retrieval-Augmented Generation (RAG), LLM Frameworks
 * **Cybersecurity:** Threat Intelligence, Network Security Concepts
 * **System Design:** Microservices, Monolithic vs. Microkernel Architectures, Software Engineering Life Cycles
@@ -32,16 +36,18 @@ markdown_content = """# Hi there, I'm Shahriar Ahmed 👋
 </p>
 
 ### 📫 Let's Connect
-* 💼 [LinkedIn] https://www.linkedin.com/in/shahriar-ahmed-405261347/
-* ✉️ Reach out for collaborations: ahmedshahriar948@gmail.com
+<div align="center">
+  <a href="https://www.linkedin.com/in/shahriar-ahmed-405261347/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:ahmedshahriar948@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</div>
 
 ---
 <p align="center">
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="120" alt="AI brain sticker" />
+  <br/>
   <em>Building solutions at the intersection of robust software engineering and artificial intelligence.</em>
 </p>
-"""
-
-with open("github_profile_readme.md", "w", encoding="utf-8") as f:
-    f.write(markdown_content)
-
-print("Markdown file generated successfully.")
